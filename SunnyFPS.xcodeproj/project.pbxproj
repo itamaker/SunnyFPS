@@ -6,15 +6,10 @@
 	objectVersion = 46;
 	objects = {
 
-/* Begin PBXFileReference section */
-		0E57870C1C71806300E37777 /* SunnyFPS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SunnyFPS.swift; path = Classes/SunnyFPS.swift; sourceTree = "<group>"; };
-/* End PBXFileReference section */
-
 /* Begin PBXGroup section */
 		0E5787051C717AEE00E37777 = {
 			isa = PBXGroup;
 			children = (
-				0E57870C1C71806300E37777 /* SunnyFPS.swift */,
 			);
 			sourceTree = "<group>";
 		};

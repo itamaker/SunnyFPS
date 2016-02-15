@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "SunnyFPS"
   s.version      = "0.0.1"
-  s.summary      = "SunnyFPS 一个简单查看FPS的Swift库"
+  s.summary      = "SunnyFPS"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
