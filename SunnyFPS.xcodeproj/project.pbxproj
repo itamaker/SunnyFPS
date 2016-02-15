@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0E57870C1C71806300E37777 /* SunnyFPS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SunnyFPS.swift; path = Classes/SunnyFPS.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0E5787051C717AEE00E37777 = {
+			isa = PBXGroup;
+			children = (
+				0E57870C1C71806300E37777 /* SunnyFPS.swift */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0E5787061C717AEE00E37777 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+			};
+			buildConfigurationList = 0E5787091C717AEE00E37777 /* Build configuration list for PBXProject "SunnyFPS" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 0E5787051C717AEE00E37777;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0E57870A1C717AEE00E37777 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0E57870B1C717AEE00E37777 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0E5787091C717AEE00E37777 /* Build configuration list for PBXProject "SunnyFPS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0E57870A1C717AEE00E37777 /* Debug */,
+				0E57870B1C717AEE00E37777 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0E5787061C717AEE00E37777 /* Project object */;
+}
