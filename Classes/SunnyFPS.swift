@@ -7,8 +7,6 @@
 //
 
 import UIKit
-//重写自 YYFPSLabel 
-//https://github.com/ibireme/YYText/blob/master/Demo/YYTextDemo/YYFPSLabel.m
 
 
 class SunnyFPS: UILabel {
